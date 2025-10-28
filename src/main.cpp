@@ -13,9 +13,6 @@
 #define SSID "INNTEGRAL"
 #define PASSWORD "1234567890"
 
-/*#define SSID "AymanWiFi"*/
-/*#define PASSWORD "hfjihg20210488"*/
-
 WiFiServer server(8080); // wifi server init. (port 8080)
 
 /*----------OLED Screen----------*/
